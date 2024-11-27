@@ -3,7 +3,8 @@
 This repository contains Colab notebooks demonstrating various clustering algorithms and techniques. Implementations range from scratch-based methods to state-of-the-art embeddings using deep learning models. Each notebook includes proper documentation, visualizations, and quality measures for clustering.
 
 ---
-
+YouTube link : https://www.youtube.com/watch?v=VPJa90yr3ks 
+---
 ## Table of Contents
 1. [K-Means Clustering from Scratch]
 2. [Hierarchical Clustering]
